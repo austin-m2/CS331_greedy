@@ -4,8 +4,8 @@
 <comment/>
 <entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_SELECTION_FLAG">cs331_greedy.Graph,addEdge,(III)V </entry>
 <entry key="ACTIVATED_FEATURES">#org.netbeans.modules.profiler.v2.features.MethodsFeature@</entry>
-<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_MODE_FLAG">AllClassesMode</entry>
-<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SETTINGS_FLAG">true</entry>
 <entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedClassesMode_SELECTION_FLAG">cs331_greedy.Graph,*, </entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SETTINGS_FLAG">true</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_MODE_FLAG">AllClassesMode</entry>
 <entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_OUTGOING_CALLS_FLAG">20</entry>
 </properties>
